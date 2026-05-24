@@ -1,0 +1,8 @@
+{
+  "name": "metadata-repository-adapter",
+  "description": "Contracts and helpers for metadata repository storage adapters",
+  "version": "0.1.0",
+  "dependencies": {
+    "metadata-error": "0.1.0"
+  }
+}
